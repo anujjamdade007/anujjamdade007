@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anujjamdade007
-- 👀 I’m interested in Data Science / Data Engineering
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate With Data Science Mentor Or Senior
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me https://www.instagram.com/a_for.anuj/
 
 <!---
